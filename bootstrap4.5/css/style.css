@@ -1,0 +1,77 @@
+body {
+	margin:0!important;
+	padding: 0!important;
+}
+.dropdown-item:hover {
+	color: #ffffff!important;
+	background-color: #473C8B!important;
+	transition: 0.1s all linear!important;
+}
+hr {
+	text-align: left!important;
+	border-radius: 2px!important;
+}
+#Sobre {
+	background-color: #fafafa!important;
+	clear: both!important;
+}
+#Produtos {
+	background-color: #FFF0F5!important;
+	clear: both!important;
+}
+.buttonInfo {
+	border:1px solid #473C8B!important;
+	border-color: #473C8B!important;
+	color: #473C8B!important;
+	clear: both!important;
+}
+.buttonInfo:hover {
+	background-color: #473C8B!important;
+	border:1px solid #473C8B!important;
+	border-color: #473C8B!important;
+	color: #f4f4f4!important;
+	transition: 0.1s all linear!important;
+	flex-direction: ltr!important;
+}
+#Representacoes {
+	background-color: #F5FFFA!important;
+	clear: both!important;
+}
+.bg {
+	background-color: #FFF5EE!important;
+	clear: both!important;
+	margin: 0!important;
+	padding: 0!important;
+}
+.alert {
+	font-size: 14.8px;
+	text-align: center!important;
+	color: #101010!important;
+}
+label {
+	font-size: 17px!important;
+}
+#Contato {
+	background-color: #F5F5F5!important;
+	clear: both!important;
+}
+footer {
+	background-color: #ccc!important;
+	clear: both!important;
+	font-size: 13.5px!important;
+	color: #101010!important;
+}
+.topo {
+	position: fixed!important;
+	left: 10px!important;
+	margin: 5px!important;
+	z-index: 1000!important;
+	bottom: 10px!important;
+	background-color: #43eeee!important;
+	border-radius: 30px!important;
+	box-shadow: 2px 2px 4px #101010!important;
+}
+#Demonstracoes {
+	background-color: #eee!important;
+	clear: both!important;
+}
